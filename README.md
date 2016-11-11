@@ -1,1 +1,1 @@
-# Deesign-Patterns-Java
+# Deesign-Patterns
